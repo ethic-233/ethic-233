@@ -2,7 +2,7 @@
 
 \\++的简历//
 
-大一学了web前端，HTML+JavaScript+css三件套，还有Vue和React框架
+大一学了web前端，HTML+JavaScript+CSS三件套，还有Vue和React框架
 
 项目经验：https://github.com/ethic-233/ReactAdmin
 
