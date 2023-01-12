@@ -1,16 +1,14 @@
 ### Hi there 👋
 
-<!--
-**ethic-233/ethic-233** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+++的简历
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+大一学了web前端，HTML+JavaScript+css三件套，还有Vue和React框架
+项目经验：https://github.com/ethic-233/ReactAdmin
+大二学了Java后端，JavaWeb，Spring，SpringMVC，Mybatis，SpringBoot
+项目经验：https://github.com/ethic-233/SSM
+https://github.com/ethic-233/MyShop2
+https://github.com/ethic-233/SpringBoot-blog
+大三上学期学了一点Python爬虫，web自动化测试，Android开发
+安卓项目经验：https://github.com/ethic-233/Drawing-Board
+并且熟练掌握SQL数据库与RESTful API，了解 HTTP相关技术
+Node.js不太熟练，因为主攻Java后端，但是可以学。
