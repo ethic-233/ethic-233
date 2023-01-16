@@ -19,5 +19,3 @@ https://github.com/ethic-233/SpringBoot-blog
 并且熟练掌握SQL数据库与RESTful API，了解 HTTP相关技术
 
 Node.js不太熟练，因为主攻Java后端，但是可以学。
-
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=ethic-233&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
