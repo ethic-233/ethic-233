@@ -20,4 +20,4 @@ https://github.com/ethic-233/SpringBoot-blog
 
 Node.js不太熟练，因为主攻Java后端，但是可以学。
 
-[![Ethic's GitHub stats](https://github-readme-stats.vercel.app/api?username=ethic-233&show_icons=true&theme=merko)](https://github.com/ethic-233/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ethic-233&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Ethic's GitHub stats](https://github-readme-stats.vercel.app/api?username=ethic-233&show_icons=true&theme=merko)](https://github.com/ethic-233/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ethic-233&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
