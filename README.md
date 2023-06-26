@@ -1,2 +1,1 @@
-[![Ethic's GitHub stats](https://github-readme-stats.vercel.app/api?username=ethic-233&show_icons=true&theme=merko)](https://github.com/ethic-233/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ethic-233&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-<a href="https://hellogithub.com/repository/ddf987cce2c646d994ebec360c2a8d3e" target="_blank"><img src="https://api.hellogithub.com/v1/widgets/featured.svg?rid=ddf987cce2c646d994ebec360c2a8d3e&theme=dark" alt="Featured｜HelloGitHub" style="width: 250px; height: 54px;" width="250" height="54" /></a>
+寄了
